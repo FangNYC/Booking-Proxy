@@ -1,2 +1,3 @@
-# Proxy_David
-David's copy of the proxy server
+# Fang-NYC Proxy
+by Ben Mangold
+
