@@ -30,3 +30,5 @@ coverage
 build/
 dist/
 public/app.js 
+
+newrelic.js
